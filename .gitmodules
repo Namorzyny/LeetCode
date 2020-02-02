@@ -1,0 +1,3 @@
+[submodule "eslintrc"]
+	path = eslintrc
+	url = git@gist.github.com:1d8575ba3a410cebf52bb2df5f123f5b.git
